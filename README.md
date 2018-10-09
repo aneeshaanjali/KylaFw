@@ -3,7 +3,7 @@
 When you running this script first time you will get notification for install requirements using composer.
 Let's Try **Composer install** in your terminal for installation.
 ## Database Setup
-Edit **connection.php** in **Config** Folder with your configuration.
+Edit **connection.php** in **Config** Folder with your configuration.//error
 ```php
 <?php
 return [
